@@ -15,7 +15,11 @@ This document outlines features of our JPL Editor
 •	Maintain Panther files under Subversion system
 
 
-
+Update:-25 july 2017
+Added keywords 'Append' (optional)and 'query' in the new version JPL-E3.7.24.
+Syntax:-
+send bundle "abc" append data xyz
+msg query "hello"
 
 
 
